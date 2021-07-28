@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulPand3y
+- 👋 Hi, I’m Rahul Pandey
 - 👀 I’m interested in flutter devlopment 
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on GSOC
